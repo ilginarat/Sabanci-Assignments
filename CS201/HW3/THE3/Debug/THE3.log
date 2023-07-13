@@ -1,0 +1,8 @@
+﻿Build started 6.05.2021 20:47:41.
+     1>Project "C:\Users\Elif\Desktop\Sabancı Üni\102\CS 201\cpp files\THE3\THE3\THE3.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.Cpp.Platform.targets(44,5): error MSB8020: The builds tools for v142 (Platform Toolset = 'v142') cannot be found. To build using the v142 build tools, either click the Project menu or right-click the solution, and then select "Update VC++ Projects...". Install v142 to build using the v142 build tools.
+     1>Done Building Project "C:\Users\Elif\Desktop\Sabancı Üni\102\CS 201\cpp files\THE3\THE3\THE3.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.01
